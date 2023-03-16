@@ -1,0 +1,4 @@
+Links dos sites para download de programas:
+
+Typora: https://typora.io/
+Git: https://git-scm.com/download/win
